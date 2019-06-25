@@ -15,4 +15,4 @@ Projeto feito para concorrência em vaga de Front-End na Mangue3.
 
 dentro da pasta onde está o projeto para executar a aplicação.
 
-Link do desafio: https://github.com/Mangue3/vaga-frontend-teste
+**Link do desafio:** https://github.com/Mangue3/vaga-frontend-teste
