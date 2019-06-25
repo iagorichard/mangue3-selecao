@@ -1,4 +1,6 @@
-#Observações:
+Projeto feito para concorrência em vaga de Front-End na Mangue3.
+
+**Observações:**
 
 - Projeto feito com React e Bootstrap (Jquery só utilizado para chamar o modal do bootstrap);
 - A aplicação funciona corretamente, exceto a ordem da listagem por ID estar com algum problema desconhecido (mesmo utilizando o método .sort() por id, ainda não funcionou);
