@@ -5,5 +5,10 @@
 - Se quiser alterar a página no início, talvez fique um pouco lento devido o carregamento (são mais de 900 elementos disponibilizados pela API), entretanto uma vez carregado, fica normal a paginação.
 
 
-#Executando:
-É só fazer push do repositório e executar o comando "npm start" dentro da pasta onde está o projeto para executar a aplicação.
+**Executando:**
+
+É só fazer push do repositório e executar o seguinte comando 
+
+    npm start 
+
+dentro da pasta onde está o projeto para executar a aplicação.
